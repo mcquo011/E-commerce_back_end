@@ -1,16 +1,7 @@
 const router = require("express").Router();
+const apiRoutes = require('./api')
 
-// Import category routes
-const categoryRoutes = require("./api/category-routes");
-router.use("/categories", categoryRoutes);
-
-// Import product routes
-const productRoutes = require("./api/product-routes");
-router.use("/products", productRoutes);
-
-// Import tag routes
-const tagRoutes = require("./api/tag-routes");
-router.use("/tags", tagRoutes);
+router.use('/api', apiRoutes)
 
 // Default route for invalid routes
 router.use((req, res) => {
