@@ -2,6 +2,8 @@
 # E-Commerce Backend
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+  [Walkthrough Video]()
+
  ## Table of Contents 📑
 
   * [Description](#description)
@@ -55,6 +57,13 @@ Tags
 * POST /api/tags - Creates a new tag.
 * PUT /api/tags/:id - Updates an existing tag with the specified ID.
 * DELETE /api/tags/:id - Deletes a tag with the specified ID.
+
+  ## Built with
+* Node.js
+* Express.js
+* Sequelize ORM
+* MySQL
+* Insomnia (API testing tool)
 
   ## Screenshots
 
