@@ -2,7 +2,7 @@
 # E-Commerce Backend
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  [Walkthrough Video]()
+  [Walkthrough Video](https://drive.google.com/file/d/19kBQH0Tq8mRSEmp5fJbZZljL7lAKZzk4/view)
 
  ## Table of Contents 📑
 
@@ -73,7 +73,7 @@ Tags
 
   ![Alt text](./images/Screen%20Shot%202023-03-15%20at%2011.10.10%20AM.png?raw=true "screenshot of get route")
 
-  Wacth [walkthrough video]() to see the other routes
+  Wacth [walkthrough video](https://drive.google.com/file/d/19kBQH0Tq8mRSEmp5fJbZZljL7lAKZzk4/view) to see the other routes
 
   ## Contributers 
 
