@@ -69,7 +69,7 @@ router.delete("/:id", async (req, res) => {
       return;
     }
     await categoryData.destroy();
-    res.status(204).end();
+    res.status(204).end("Category deleted successfully");
   } catch (error) {
     console.error(error);
     res.status(500).json({ message: "Internal server error" });
